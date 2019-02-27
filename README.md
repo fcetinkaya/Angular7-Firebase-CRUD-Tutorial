@@ -1,4 +1,8 @@
-# A
+
+ # Angular 7 - Firabase CRUD Example
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/Angular7_FirebaseCRUD/blob/master/Angular7_FirebaseCRUD.JPG">
+</p>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.0-rc.0.
 
